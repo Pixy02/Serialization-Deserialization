@@ -11,21 +11,16 @@ namespace PlayerStats
 
         public DataPlayer DeserializeData(string path)
         {
-            // membuat data player kosong
             DataPlayer data = new DataPlayer();
 
             if (File.Exists(path))
             {
-                // menginisialisasi format binary
                 BinaryFormatter formatter = new BinaryFormatter();
 
-                // membuka file sesuai tujuan
                 FileStream stream = new FileStream(path, FileMode.Open);
 
-                // meng deserialisasi data
                 data = formatter.Deserialize(stream) as DataPlayer;
 
-                // menutup file
                 stream.Close();
             }
             else
