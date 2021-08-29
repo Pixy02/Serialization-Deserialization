@@ -1,0 +1,12 @@
+D:\!!!!!TUGAS TUGAS KULIAH\SEMS 5\Pemrograman Jaringan Berbasis Komputer\Week 1\Serialization\PLayerStatLib\obj\Debug\netcoreapp3.1\PlayerStats.AssemblyInfoInputs.cache
+D:\!!!!!TUGAS TUGAS KULIAH\SEMS 5\Pemrograman Jaringan Berbasis Komputer\Week 1\Serialization\PLayerStatLib\obj\Debug\netcoreapp3.1\PlayerStats.AssemblyInfo.cs
+D:\!!!!!TUGAS TUGAS KULIAH\SEMS 5\Pemrograman Jaringan Berbasis Komputer\Week 1\Serialization\PLayerStatLib\obj\Debug\netcoreapp3.1\PlayerStats.csproj.CoreCompileInputs.cache
+D:\!!!!!TUGAS TUGAS KULIAH\SEMS 5\Pemrograman Jaringan Berbasis Komputer\Week 1\Serialization\PLayerStatLib\bin\Debug\netcoreapp3.1\PlayerStats.exe
+D:\!!!!!TUGAS TUGAS KULIAH\SEMS 5\Pemrograman Jaringan Berbasis Komputer\Week 1\Serialization\PLayerStatLib\bin\Debug\netcoreapp3.1\PlayerStats.deps.json
+D:\!!!!!TUGAS TUGAS KULIAH\SEMS 5\Pemrograman Jaringan Berbasis Komputer\Week 1\Serialization\PLayerStatLib\bin\Debug\netcoreapp3.1\PlayerStats.runtimeconfig.json
+D:\!!!!!TUGAS TUGAS KULIAH\SEMS 5\Pemrograman Jaringan Berbasis Komputer\Week 1\Serialization\PLayerStatLib\bin\Debug\netcoreapp3.1\PlayerStats.runtimeconfig.dev.json
+D:\!!!!!TUGAS TUGAS KULIAH\SEMS 5\Pemrograman Jaringan Berbasis Komputer\Week 1\Serialization\PLayerStatLib\bin\Debug\netcoreapp3.1\PlayerStats.dll
+D:\!!!!!TUGAS TUGAS KULIAH\SEMS 5\Pemrograman Jaringan Berbasis Komputer\Week 1\Serialization\PLayerStatLib\bin\Debug\netcoreapp3.1\PlayerStats.pdb
+D:\!!!!!TUGAS TUGAS KULIAH\SEMS 5\Pemrograman Jaringan Berbasis Komputer\Week 1\Serialization\PLayerStatLib\obj\Debug\netcoreapp3.1\PlayerStats.dll
+D:\!!!!!TUGAS TUGAS KULIAH\SEMS 5\Pemrograman Jaringan Berbasis Komputer\Week 1\Serialization\PLayerStatLib\obj\Debug\netcoreapp3.1\PlayerStats.pdb
+D:\!!!!!TUGAS TUGAS KULIAH\SEMS 5\Pemrograman Jaringan Berbasis Komputer\Week 1\Serialization\PLayerStatLib\obj\Debug\netcoreapp3.1\PlayerStats.genruntimeconfig.cache
